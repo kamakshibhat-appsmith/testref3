@@ -4,7 +4,7 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "version": "0.0.1",
-    "name": "QueryModule111",
+    "name": "QueryModule1111",
     "contextType": "PAGE",
     "pageId": "Page1",
     "inputs": {
@@ -24,7 +24,7 @@
     "invalids": [],
     "userPermissions": []
   },
-  "id": "Page1_QueryModule111",
+  "id": "Page1_QueryModule1111",
   "deleted": false,
   "gitSyncId": "667d7de856e1290614555b50_fa43b8e0-ccd3-4de7-8192-9ac2806df788"
 }
