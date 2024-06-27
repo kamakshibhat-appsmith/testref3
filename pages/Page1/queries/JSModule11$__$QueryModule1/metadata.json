@@ -1,11 +1,11 @@
 {
   "isPublic": true,
-  "rootModuleInstanceId": "Page1_JSModule21",
-  "originModuleInstanceId": "667d7b5a56e1290614555a0c",
+  "rootModuleInstanceId": "Page1_JSModule11",
+  "originModuleInstanceId": "667d7b5156e12906145559f8",
   "pluginType": "DB",
   "pluginId": "postgres-plugin",
   "unpublishedAction": {
-    "name": "_$JSModule21$__$QueryModule1$_QueryModule1",
+    "name": "_$JSModule11$__$QueryModule1$_QueryModule1",
     "datasource": {
       "name": "Users",
       "pluginId": "postgres-plugin",
@@ -26,7 +26,7 @@
     "userPermissions": [],
     "createdAt": "2024-06-27T14:46:13Z"
   },
-  "id": "Page1__$JSModule21$__$QueryModule1$_QueryModule1",
+  "id": "Page1__$JSModule11$__$QueryModule1$_QueryModule1",
   "deleted": false,
-  "gitSyncId": "667d7c7c56e1290614555a81_f1bd9b6e-b2f8-41c5-9ed0-f221ff42c93f"
+  "gitSyncId": "667d7d1c56e1290614555ad5_e03464df-eace-4bfb-b1f3-cf5fa19fc950"
 }

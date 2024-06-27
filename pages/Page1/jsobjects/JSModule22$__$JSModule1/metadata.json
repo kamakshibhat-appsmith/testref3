@@ -1,9 +1,9 @@
 {
   "isPublic": true,
-  "rootModuleInstanceId": "Page1_JSModule21",
+  "rootModuleInstanceId": "Page1_JSModule22",
   "originModuleInstanceId": "667d7b6056e1290614555a1a",
   "unpublishedCollection": {
-    "name": "_$JSModule21$__$JSModule1$_JSModule1",
+    "name": "_$JSModule22$__$JSModule1$_JSModule1",
     "pageId": "Page1",
     "contextType": "PAGE",
     "pluginId": "js-plugin",
@@ -12,7 +12,7 @@
     "archivedActions": [],
     "userPermissions": []
   },
-  "id": "Page1__$JSModule21$__$JSModule1$_JSModule1",
+  "id": "Page1__$JSModule22$__$JSModule1$_JSModule1",
   "deleted": false,
-  "gitSyncId": "667d7c7c56e1290614555a81_ebbfa3cc-b00a-46b5-8852-e1ee13325f0e"
+  "gitSyncId": "667d7d1c56e1290614555ad5_bc79aa09-b62a-4d80-a898-90a5c731f8ae"
 }
